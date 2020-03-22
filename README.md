@@ -4,8 +4,8 @@ In this project I am working with with a dataset provided by Codecademy.com. The
 
 The schema of the database is:
 
-   Column   |  Type  |   Notes    |
------------------------------------
-country     | string |
-population  | number | in millions
-year        | number |
+|   Column   |  Type  |   Notes     |
+|------------|--------|-------------|
+|country     | string |             |
+|population  | number | in millions |
+|year        | number |             |
